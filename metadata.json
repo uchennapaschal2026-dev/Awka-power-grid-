@@ -1,0 +1,6 @@
+{
+  "name": "Awka Power Grid & Fair Billing Portal",
+  "description": "Feeder-level electricity transparency, NERC estimated billing dispute generator, and solar mini-grid PAYG STS vending platform for Awka, Anambra State.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
